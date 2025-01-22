@@ -157,11 +157,11 @@ For enthusiastic internees:
 To begin working on these tasks, clone the repository to your local machine:
 
 ```bash
-(https://github.com/AsadUllah-AI-Eng/AI-ML-Intern-tasks/edit/main)
+(https://github.com/AsadUllah-AI-Eng/AI-ML-Intern-tasks)
 ```
 
 ## Contact
 
 For any questions or suggestions, feel free to reach out:
 
-- **GitHub:** [codewithdark-git](https://www.linkedin.com/in/asad-ullah-436a9322a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- **Linkdin:** [Asad Ullah](https://www.linkedin.com/in/asad-ullah-436a9322a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
