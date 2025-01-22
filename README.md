@@ -157,7 +157,7 @@ For enthusiastic internees:
 To begin working on these tasks, clone the repository to your local machine:
 
 ```bash
-(https://github.com/AsadUllah-AI-Eng/AI-ML-Intern-tasks)
+https://github.com/AsadUllah-AI-Eng/AI-ML-Intern-tasks
 ```
 
 ## Contact
